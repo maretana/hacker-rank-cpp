@@ -4,5 +4,5 @@ Matching
 nbproject
 World
 .dep.inc
-main.cpp
+/main.cpp
 Makefile
