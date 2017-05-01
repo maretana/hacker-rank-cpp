@@ -1,0 +1,8 @@
+build/
+dist/
+Matching
+nbproject
+World
+.dep.inc
+main.cpp
+Makefile
