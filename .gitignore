@@ -6,3 +6,5 @@ World
 .dep.inc
 /main.cpp
 Makefile
+*.o
+run
